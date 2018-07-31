@@ -1,11 +1,13 @@
 ## vim-service
 
+This is an automator workflow which enables a new service inside 
+the mac finder context menu.
+
 #### Requirements
 
   - macOs 10+
 
-This is an automator workflow which enables a new service inside 
-the mac finder context menu.
+#### Install
 
 Double click on Vim.workflow and press install
 
