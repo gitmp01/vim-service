@@ -1,6 +1,6 @@
-### vim-service
+## vim-service
 
-## Requirements
+#### Requirements
 
   - macOs 10+
 
